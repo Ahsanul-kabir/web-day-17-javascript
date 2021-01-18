@@ -1,4 +1,4 @@
-// single line comment 
+// single line comment
 
-/*Hi I am 
+/*Hi I am
 Multiple line Comment*/
